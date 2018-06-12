@@ -1,0 +1,18 @@
+#friendList{
+   font-size: 13px;
+   width: 200px;
+   height: 100px;
+   border :solid 1px gray;
+   border-radius: 2px;
+   margin: auto;
+   margin-top: 2em;
+}
+ a:hover{
+	text-decoration: none;
+}
+#no_news{
+	margin-left: 435px;
+	margin-top: -8px;
+	color:grey;
+	font-size: 15px;
+}

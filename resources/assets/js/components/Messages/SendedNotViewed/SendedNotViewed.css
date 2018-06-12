@@ -1,0 +1,46 @@
+.hideOverflow
+{
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    width:92%;
+    display:block;
+}
+.list-group-item {
+display: flex;
+}
+.date{
+	color: white;
+}
+.extra{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+.extra a{
+	color:orange;
+}
+#count{
+	margin-left: 900px;
+}
+
+.date{
+	color:grey;
+}
+.text{
+	color:black;
+}
+#sended_not_viewed{
+	margin-left: 15px;
+	display: flex;
+}
+#sended_not_viewed .text{
+	border-radius: 5%;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 10px;
+	background-color: #3a74e0;
+}
+#sended_not_viewed img{
+border-radius: 50%;
+}

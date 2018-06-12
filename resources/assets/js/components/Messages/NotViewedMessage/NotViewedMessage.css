@@ -1,0 +1,25 @@
+.hideOverflow
+{
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    width:92%;
+    display:block;
+}
+.list-group-item {
+display: flex;
+}
+.date{
+	color: white;
+}
+.extra{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+.extra a{
+	color:orange;
+}
+#count{
+	margin-left: 900px;
+}

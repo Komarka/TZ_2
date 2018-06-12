@@ -1,0 +1,17 @@
+#separate_news{
+	color:black;
+}
+#separate_news img{
+	border-radius: 50%;
+}
+#separate_news{
+	margin-top:40px;
+}
+#separate_news button{
+	margin-right:5px;
+	float: left;
+}
+#accepted{
+	color:green;
+	margin-left: 10px;
+}

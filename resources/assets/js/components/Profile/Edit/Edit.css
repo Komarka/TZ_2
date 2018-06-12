@@ -1,0 +1,13 @@
+#edit {
+	margin-left: -20px;
+	margin-top: 10px;
+
+}
+.hideOverflow
+{
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    width:92%;
+    display:block;
+}

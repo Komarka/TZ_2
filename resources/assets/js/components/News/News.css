@@ -1,0 +1,12 @@
+#news{
+	display: flex;
+	flex-direction: column;
+	margin-left: 400px;
+	margin-top: -40px;
+}
+#news h1{
+	margin-left: 70px;
+	margin-top: 30px;
+	color:grey;
+	font-size: 15px;
+}

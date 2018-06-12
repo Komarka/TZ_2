@@ -1,0 +1,39 @@
+.search_list{
+	margin-top: 25px;
+	margin-left: -300px;
+}
+.search__container img {
+    border-radius: 50%;
+    height: 100px;
+    cursor: pointer;
+      transition: 0.1s linear;
+}
+.search__container .alert {
+	margin-left: 270px;
+}
+.search__container .alert {
+	text-align: center;
+}
+
+p{
+	color:black;
+}
+#list li{
+	float: left;
+	margin-right: 45px;
+	list-style-type: none;
+}
+li p{
+	margin-left: 45px;
+}
+.search__container img:hover {
+   filter: grayscale(1);
+    transform: scale(1.5);
+}
+.search_containera a:active, a:focus {
+   outline: none;
+}
+#myModalLabel{
+	color:black;
+}
+
